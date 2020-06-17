@@ -9,8 +9,8 @@ body {
     background-color: blue;
 }
 
-h1#header {
-    color: white;
+#header h1{
+    color red;
 }
 
 
