@@ -9,8 +9,8 @@ body {
     background-color: blue;
 }
 
-#header h1{
-    color: red;
+h1 #header{
+    color: yellowgreen;
 }
 
 
@@ -31,8 +31,8 @@ body {
 
 
 
-#footer h2{
-    color: white;
+h2 #footer{
+    color: yellow;
 }
 
 
