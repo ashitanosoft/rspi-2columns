@@ -9,7 +9,7 @@ body {
     background-color: blue;
 }
 
-h1 #header{
+h1#header{
     color: yellowgreen;
 }
 
@@ -31,7 +31,7 @@ h1 #header{
 
 
 
-h2 #footer{
+h2#footer{
     color: yellow;
 }
 
